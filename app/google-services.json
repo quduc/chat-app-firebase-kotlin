@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "897548135100",
+    "project_id": "chat-app-kotlin-dev",
+    "storage_bucket": "chat-app-kotlin-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897548135100:android:67d994bc447ebb0998feb9",
+        "android_client_info": {
+          "package_name": "com.quduc.firebasechatappkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897548135100-7t9p9mui7oetkdrq6sfq3hi5lkc8g6oa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2Wuif4GliHsp9N8ZkuYA8pSw4COc1byY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897548135100-7t9p9mui7oetkdrq6sfq3hi5lkc8g6oa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
